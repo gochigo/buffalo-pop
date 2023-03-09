@@ -3,7 +3,7 @@ module github.com/gobuffalo/buffalo-pop/v3
 go 1.16
 
 require (
-	github.com/fatih/color v1.13.0
+	github.com/fatih/color v1.14.1
 	github.com/gobuffalo/buffalo v1.1.0
 	github.com/gobuffalo/events v1.4.3
 	github.com/gobuffalo/flect v1.0.0
