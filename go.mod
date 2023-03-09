@@ -14,5 +14,5 @@ require (
 	github.com/gofrs/uuid v4.3.1+incompatible
 	github.com/sirupsen/logrus v1.9.0
 	github.com/spf13/cobra v1.6.1
-	github.com/stretchr/testify v1.8.1
+	github.com/stretchr/testify v1.8.2
 )
