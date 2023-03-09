@@ -6,7 +6,7 @@ require (
 	github.com/fatih/color v1.13.0
 	github.com/gobuffalo/buffalo v1.1.0
 	github.com/gobuffalo/events v1.4.3
-	github.com/gobuffalo/flect v1.0.0
+	github.com/gobuffalo/flect v1.0.2
 	github.com/gobuffalo/genny/v2 v2.1.0
 	github.com/gobuffalo/httptest v1.5.2
 	github.com/gobuffalo/plush/v4 v4.1.18
